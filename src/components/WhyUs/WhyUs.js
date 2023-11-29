@@ -17,6 +17,7 @@ function WhyUs(){
                 </div>
               </div>
             </div>
+            
             <div className="col-lg-8 d-flex align-items-stretch">
               <div className="icon-boxes d-flex flex-column justify-content-center">
                 <div className="row">
